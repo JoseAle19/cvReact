@@ -1,0 +1,82 @@
+.home {
+    height: max-content;
+}
+
+.tittle {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+}
+
+.containerData {
+    padding: 0;
+}
+
+.colData {
+    padding: 0%;
+}
+
+.datos {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+}
+
+.profile {
+    background-color: orange;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    height: 2.5pc;
+    color: white;
+    font-weight: bold;
+}
+
+.hobbies {
+    margin-left: 10px;
+    background-color: orange;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    height: 2.5pc;
+    color: white;
+    font-weight: bold;
+}
+
+.studys {
+    margin-left: 10px;
+    background-color: orange;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    height: 2.5pc;
+    color: white;
+    font-weight: bold;
+}
+
+.homeImage {
+    background-color: orange;
+}
+
+.homeDatos {
+    background-color: red;
+    height: 600px;
+    width: 600px;
+}
+
+.image {
+    margin: 20px auto;
+    border-radius: 25px;
+    padding: 13px;
+    width: 600px;
+    overflow: hidden;
+    height: 500px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+}
